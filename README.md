@@ -1,10 +1,14 @@
 # BookstoreChatbot
 
-Formas parte de un Equipo de desarrollo ágil recién formado en una empresa de software. Tu equipo es responsable de construir un chatbot para una librería online, pero el proyecto ha tenido un comienzo difícil. El equipo anterior intentó crear todo el chatbot de una sola vez, sin apenas comunicación ni colaboración. No tenían control de versiones, las pruebas eran una ocurrencia tardía y el proyecto se ha deteriorado rápidamente.
+Título del proyecto: BookstoreChatbot
+
+Breve descripción: Formas parte de un Equipo de desarrollo ágil recién formado en una empresa de software. Tu equipo es responsable de construir un chatbot para una librería online, pero el proyecto ha tenido un comienzo difícil. El equipo anterior intentó crear todo el chatbot de una sola vez, sin apenas comunicación ni colaboración. No tenían control de versiones, las pruebas eran una ocurrencia tardía y el proyecto se ha deteriorado rápidamente.
 
 El jefe de tu equipo, un experto en Agile, te ha contratado para que ayudes a cambiar las cosas. Se le ha encomendado la tarea de introducir prácticas ágiles y DevOps. Tienes un plan de proyecto básico para empezar, pero es necesario adaptarlo a un enfoque ágil.
 
-Tu trabajo es guiar a tu equipo a través del primer sprint, centrándose en establecer una base sólida para el desarrollo del chatbot. Esto incluye:
+Miembros del equipo: Marino Ramírez Pulido
+
+Objetivos iniciales: Tu trabajo es guiar a tu equipo a través del primer sprint, centrándose en establecer una base sólida para el desarrollo del chatbot. Esto incluye:
 
 1. Implementar el control de versiones con Git y GitHub. Tendrás que asegurarte de que todos en el equipo puedan trabajar en el código simultáneamente sin conflictos. 
 
